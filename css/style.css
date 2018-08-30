@@ -1,0 +1,140 @@
+body {
+    margin: 0;
+}
+.top {
+    background-image: url(../photo/shopping.jpg);
+    height: 400px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    color: #ffffff;
+}
+.logo {
+    padding: 30px;
+}
+.top > ul {
+    list-style-type:none;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+} 
+.over {
+    background: rgba(68, 100, 129, 0.82);
+    overflow: hidden;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+}
+a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 15px;
+}
+.listTop{
+    float: right;
+    list-style-type: none;
+    margin-right: 20px;
+}
+.navBut {
+    padding: fixed;
+    right: 0;
+    top: 20px;
+}
+h1 {
+    color: red;
+    text-align: center;
+    font-family: sofia;
+    font-size: 40px;
+}
+
+.tagline {
+    padding: 70px 0;
+    text-align: center;
+    font-size: 50px;
+    font-family: sofia;
+    color: red;
+}
+.photo {
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    padding: 20px;
+} 
+.area {
+    background-color: lightgray;
+}
+p.fix {
+    font-size: 20px;
+    text-align: center;
+    color: crimson;
+    margin-left: 25px;
+}
+.bilder {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin-top: 60px;
+}
+.red {
+    text-align: center;
+    background-color: crimson;
+    height:fit-content;
+    padding-bottom: 25px;
+}
+.rub {
+    text-align: center;
+}
+.underLine {
+    margin-top: -30px;
+    color: red;
+    font-weight: 900;
+}
+.in {
+    height: 45px;
+    width: 300px;
+}
+.inp {
+    height: 100px;
+    width: 300px;
+}
+.cont {
+    margin-bottom: 30px;
+}
+.maps {
+    margin-bottom: 30px;
+}
+.send {
+    width: 300px;
+    height: 45px;
+    font-size: 27px;
+}
+.line > nav ul {
+    list-style-type:none;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 30px;
+}
+.listFoot{
+    padding: 5px;
+    list-style-type: none;
+    display: inline;
+}
+.foot {
+    background-color: #E87413;
+}
+.logo2 img {
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+}
+.links {
+    list-style-type:none;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 30px;
+}
+.copy {
+    text-align: center;
+}
